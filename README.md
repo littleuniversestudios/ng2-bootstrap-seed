@@ -1,7 +1,19 @@
-# angular2-webpack
+# ng2-bootstrap-seed
 
-[![Dependency Status](https://david-dm.org/preboot/angular2-webpack/status.svg)](https://david-dm.org/preboot/angular2-webpack#info=dependencies) [![devDependency Status](https://david-dm.org/preboot/angular2-webpack/dev-status.svg)](https://david-dm.org/preboot/angular2-webpack#info=devDependencies)
-[![Join the chat at https://gitter.im/preboot/angular2-webpack](https://badges.gitter.im/preboot/angular2-webpack.svg)](https://gitter.im/preboot/angular2-webpack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+This seed uses [https://github.com/preboot/angular2-webpack](https://github.com/preboot/angular2-webpack) seed as its base. It has been modified to work with [Angular CLI Tools](https://www.npmjs.com/package/angular-cli-tools) and [ng-bootstrap](https://ng-bootstrap.github.io/#/home) to create an Angular 2 + Bootstrap starter seed that can be used right out of the box.
+
+To get started with this seed you have 2 options:
+
+1. Go to [Angular CLI Tools](https://www.npmjs.com/package/angular-cli-tools) for a quick way to create Angular 2 projects from your command line
+2. Clone this repo
+
+Some things that were modified from the original seed:
+
+ * `src` folder more closely follows ng2 style guide
+ * support for lazy loaded routes
+ * `package.json` files includes: [font-awesome](http://fontawesome.io/icons/), [bootstrap 4](https://v4-alpha.getbootstrap.com/), [ng-bootstrap](https://ng-bootstrap.github.io/#/home)
+
+Full credit to the team at [https://github.com/preboot/angular2-webpack](https://github.com/preboot/angular2-webpack). Rest of the readme + instructions come from their seed:
 
 A complete, yet simple, starter for Angular 2 using Webpack.
 
