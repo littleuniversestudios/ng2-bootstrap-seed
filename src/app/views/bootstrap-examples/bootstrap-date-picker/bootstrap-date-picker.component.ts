@@ -1,5 +1,5 @@
 import {Component, OnInit, OnDestroy} from '@angular/core';
-import {NgbDateStruct} from "@ng-bootstrap/ng-bootstrap";
+import {NgbDateStruct} from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
     selector: 'bootstrap-date-picker',
